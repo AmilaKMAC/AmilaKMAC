@@ -1,5 +1,6 @@
-👋 Hi, I’m Chathuranga Bandara
-Cybersecurity Enthusiast | IT Undergraduate | Exploring Secure Software & Systems
+👋 Hi, I’m Chathuranga Bandara,
+
+🎯 Cybersecurity Enthusiast | IT Undergraduate | Exploring Secure Software & Systems
 
 🔐 Passionate about cybersecurity, secure software development, and IT infrastructure
 
