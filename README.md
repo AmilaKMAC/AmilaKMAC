@@ -10,7 +10,7 @@ Cybersecurity Enthusiast | IT Undergraduate | Exploring Secure Software & System
 🤝 Open to collaborating on projects involving cybersecurity solutions, secure web applications, and database optimization
 
 📫 Reach me at achathuranga.b@gmail.com
- or connect with me on [![LinkedIn](https://img.shields.io/badge/-Chathuranga%20Bandara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
+ or [Connect with me on LinkedIn](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
 
 ⚡ Fun fact: Outside of tech, I enjoy experimenting with recipes and creating fusion dishes from different cuisines!
 
