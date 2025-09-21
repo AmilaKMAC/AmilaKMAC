@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Chathuranga Bandara
-- 👀 I’m interested in software development, database management, and web development....
-- 🌱 I’m currently learning software development practices using languages like Python and Java, mastering SQL for efficient database management, and diving into frontend and backend web development with HTML/CSS and JavaScript.
-- 💞️ I’m looking to collaborate on projects that involve building scalable software solutions, optimizing database performance, and creating dynamic web applications.
-- 📫 Reach me  at achathuranga.b@gmail.com or connect with me on LinkedIn at [linkedin.com/in/chathuranga-bandara-a043552a7]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy experimenting with new recipes and creating fusion dishes from different cuisines!
+👋 Hi, I’m Chathuranga Bandara
+👀 I’m passionate about full-stack development, database optimization, and cybersecurity awareness.
+🌱 I’m currently advancing my skills in Java, Python, and SQL, while also exploring modern frameworks like Angular and strengthening my foundation in cybersecurity practices.
+💞️ I’m eager to collaborate on projects that involve building secure, scalable applications, designing efficient databases, and developing responsive web solutions.
+📫 Reach me at achathuranga.b@gmail.com or connect with me on LinkedIn at [linkedin.com/in/chathuranga-bandara-a043552a7]
+.
+😄 Pronouns: He/Him
+⚡ Fun fact: When I’m not coding, I enjoy experimenting with recipes and creating fusion dishes from different cuisines!
+
 
 <!---
 AmilaKMAC/AmilaKMAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
