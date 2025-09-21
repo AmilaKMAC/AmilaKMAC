@@ -1,12 +1,18 @@
 👋 Hi, I’m Chathuranga Bandara
-👀 I’m passionate about full-stack development, database optimization, and cybersecurity awareness.
-🌱 I’m currently advancing my skills in Java, Python, and SQL, while also exploring modern frameworks like Angular and strengthening my foundation in cybersecurity practices.
-💞️ I’m eager to collaborate on projects that involve building secure, scalable applications, designing efficient databases, and developing responsive web solutions.
-📫 Reach me at achathuranga.b@gmail.com or connect with me on LinkedIn at [linkedin.com/in/chathuranga-bandara-a043552a7]
-.
-😄 Pronouns: He/Him
-⚡ Fun fact: When I’m not coding, I enjoy experimenting with recipes and creating fusion dishes from different cuisines!
+Cybersecurity Enthusiast | IT Undergraduate | Exploring Secure Software & Systems
 
+🔐 Passionate about cybersecurity, secure software development, and IT infrastructure
+
+🌱 Currently learning Java, Python, SQL, and networking fundamentals, while exploring cybersecurity practices
+
+💻 Interested in secure coding, vulnerability assessment, and building resilient applications
+
+🤝 Open to collaborating on projects involving cybersecurity solutions, secure web applications, and database optimization
+
+📫 Reach me at achathuranga.b@gmail.com
+ or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
+
+⚡ Fun fact: Outside of tech, I enjoy experimenting with recipes and creating fusion dishes from different cuisines!
 
 <!---
 AmilaKMAC/AmilaKMAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
