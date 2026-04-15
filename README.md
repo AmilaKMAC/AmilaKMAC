@@ -1,21 +1,15 @@
-👋 Hi, I’m Chathuranga Bandara,
+👋 Hi, I'm Chathuranga Bandara,
 
-🎯 Cybersecurity Enthusiast | IT Undergraduate | Exploring Secure Software & Systems
+🎯 IT Undergraduate | Software Developer in the Making | Building Real Things
 
-🔐 Passionate about cybersecurity, secure software development, and IT infrastructure
+💻 Passionate about software development, web applications, and understanding how systems work from the ground up
 
-🌱 Currently learning Java, Python, SQL, and networking fundamentals, while exploring cybersecurity practices
+🌱 Currently learning C#, System Admin, and networking fundamentals — and loving every bit of it
 
-💻 Interested in secure coding, vulnerability assessment, and building resilient applications
+🔧 Working with Laravel, MySQL, Bootstrap, and Linux to build practical, real-world projects
 
-🤝 Open to collaborating on projects involving cybersecurity solutions, secure web applications, and database optimization
+🤝 Open to collaborating on web apps, database-driven systems, and anything that involves turning ideas into working software
 
-📫 Reach me at achathuranga.b@gmail.com
- or Connect with me on [LinkedIn](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
+📫 Reach me at achathuranga.b@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
 
 ⚡ Fun fact: Outside of tech, I enjoy experimenting with recipes and creating fusion dishes from different cuisines!
-
-<!---
-AmilaKMAC/AmilaKMAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
